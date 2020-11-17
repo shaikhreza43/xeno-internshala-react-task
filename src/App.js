@@ -1,9 +1,10 @@
 import './App.scss';
+import Chart from './components/Chart/Chart';
 
 function App() {
   return (
     <>
-    <h3>Hello Wolrd</h3>
+    <Chart/>
     </>
   );
 }
